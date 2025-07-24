@@ -1,0 +1,15 @@
+
+
+.my-icon {
+    width: 35px;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+
+.my-font{
+    font-family: cursive;
+}
